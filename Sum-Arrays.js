@@ -1,0 +1,1 @@
+var sum = (numbers) => { var result; numbers.reduce((histElem,elem) => result = histElem + elem,0); if(numbers[0]){return result}else{return 0}}

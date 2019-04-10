@@ -1,0 +1,1 @@
+var maxNumber = (n) => Number(String(n).split('').sort().reverse().join(''));

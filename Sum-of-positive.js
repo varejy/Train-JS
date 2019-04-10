@@ -1,0 +1,1 @@
+var positiveSum = (arr) => {var positive = arr.filter((num) => {return num > 0}); return positive.reduce((sum,num) => sum + num,0);}

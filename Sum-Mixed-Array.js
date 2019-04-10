@@ -1,0 +1,1 @@
+var sumMix = (x) => x.map((elm) => +elm).reduce((sum,elm) => sum + elm);

@@ -1,0 +1,1 @@
+var spEng = (sen) => sen == /\^e|E{1}n|N{1}g|G{1}l|L{1}i|I{1}s|S{1}h|H$/ ? true : false

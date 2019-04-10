@@ -1,0 +1,1 @@
+var bingo = (a) => [2,9,14,7,15].every(elem => a.includes(elem)) ? "WIN":"LOSE"
